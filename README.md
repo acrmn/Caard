@@ -10,7 +10,7 @@
 ![MVVM](https://img.shields.io/badge/MVVM-C4ACFC)
 ![Local Storage](https://img.shields.io/badge/LocalStorage-C4ACFC)
 
-Caard. es una aplicación nativa iOS para dispositivos iPhone pensada para que tengas siempre a mano tu tarjeta de contacto o visita.
+Caard. es una aplicación nativa iOS para dispositivos iPhone pensada para que tengas siempre a mano tu tarjeta de contacto.
 
 ## :grey_exclamation: Información útil
 
@@ -21,7 +21,7 @@ Caard. es una aplicación nativa iOS para dispositivos iPhone pensada para que t
 ## :bookmark_tabs: Sobre este proyecto
 
 La decisión de realizar este proyecto surge a raíz de la estabilización de SwiftUI así como de la creciente demanda de aplicaciones basadas en el mismo.
-El objetivo es comenzar a formarse en este framework y la arquitectura más popular que lo acompaña.
+El objetivo es comenzar a formarse en este framework y la arquitectura más popular que lo acompaña, MVVM.
 
 ## :gear: Funcionalidades
 - `Creación y edición de tarjeta`: Introduce tus datos personales y editalos siempre que quieras para comporner tu propia **tarjeta de contacto**.
