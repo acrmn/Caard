@@ -32,30 +32,29 @@ El objetivo es comenzar a formarse en este framework y la arquitectura más popu
 - `Autenticación` Para acceder a la aplicación utiliza Face ID o el código de desbloqueo del iPhone.
    
 <p align="center">
-  <img width="250" alt="Caard Launc Screen" src="https://github.com/acrmn/Caard/assets/141274179/7da6bb98-25cb-4768-92c0-42eb0433d224">
+  <img width="250" alt="Caard Launc Screen" src="https://github.com/acrmn/Caard/assets/141274179/0298e7dc-8cda-42c3-a54c-4b061ffa0e55">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img width="250" alt="Caard Login Screen" src="https://github.com/acrmn/Caard/assets/141274179/c36b0347-f18f-43cb-a72e-9f6141ee0b6e">
+  <img width="250" alt="Caard Login Screen" src="https://github.com/acrmn/Caard/assets/141274179/2aecd86b-9fb4-43a5-8469-c2d44d10cff1">
 </p>
 
 - `Tarjeta` Utiliza la plantilla de tarjeta por defecto para añadir tus propios datos o compartirla con otros.
   
 <p align="center">
-  <img width="250" alt="Caard View Screen" src="https://github.com/acrmn/Caard/assets/141274179/57f4a507-ae33-4639-9e9a-adeb0cbf8d66">
+  <img width="250" alt="Caard View Screen" src="https://github.com/acrmn/Caard/assets/141274179/7432e6e7-0bb2-4ea4-a9d7-64598b6c8979">
 </p>
 
 - `Editar tarjeta` Edita la tarjeta con tus datos, foto de perfil y color.
   
 <p align="center">
-  <img width="250" alt="Caard Edit Screen" src="https://github.com/acrmn/Caard/assets/141274179/da5e919d-a23e-4857-9655-3d91cb464e1c">
+  <img width="250" alt="Caard Edit Screen" src="https://github.com/acrmn/Caard/assets/141274179/1c7061d4-ce1b-43f7-a42b-8de362ab52cd">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img width="250" alt="Caard ColorPicker Screen" src="https://github.com/acrmn/Caard/assets/141274179/5a592644-db79-42d2-b07f-c1a39be0120d">
+  <img width="250" alt="Caard ColorPicker Screen" src="https://github.com/acrmn/Caard/assets/141274179/9d2fd026-b973-4e23-a896-156150fcb8d9">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img width="250" alt="Caard ViewFilled Screen" src="https://github.com/acrmn/Caard/assets/141274179/f0806791-d335-4967-b7bf-b540c6777e90">
+  <img width="250" alt="Caard ViewFilled Screen" src="https://github.com/acrmn/Caard/assets/141274179/6e4f9f60-d182-4e41-9ceb-bfc69dd79887">
 </p>
 
 - `Compartir tarjeta` Previsualiza el formato con el que se enviará tu tarjeta y compartela mediante servicios de mensajería, AirDrop y más.
   
 <p align="center">
-  <img width="250" alt="Caard Preview Share Screen" src="https://github.com/acrmn/Caard/assets/141274179/9706c2e0-3775-401e-b628-01c7330d21f7">
+  <img width="250" alt="Caard Preview Share Screen" src="https://github.com/acrmn/Caard/assets/141274179/595acb2b-27df-4113-8e21-05e00fbbf62e">
 </p>
-
